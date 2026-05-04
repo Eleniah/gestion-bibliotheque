@@ -57,4 +57,4 @@ php artisan serve
 
 ## Documentation
 
-Le cahier des charges, le MCD et le diagramme de classes sont disponibles dans le dossier `/docs/`.
+Le cahier des charges, le MCD et le diagramme de classes sont disponibles à ce lien : https://docs.google.com/document/d/1c9N-pa-D-F_QFA0KUvydPpjUH69E0d9Mv1kdjxGawY0/edit?usp=sharing 
